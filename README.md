@@ -1,5 +1,9 @@
 # Basic WebView App
 
+![Issues](https://img.shields.io/github/issues/aaishikasb/Basic-WebView-App)
+![Stars](https://img.shields.io/github/stars/aaishikasb/Basic-WebView-App)
+![License](https://img.shields.io/github/license/aaishikasb/Basic-WebView-App)
+![Collaborators](https://img.shields.io/badge/collaborators-1-red) <br>
 A WebView is an embeddable browser that a native application can use to display web content. There are a two sets of words to highlight here: The first set of words is native application (aka app). The Webview App that we have here is built in Kotlin, which is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version.
 
 ## Create your Webview with this Repository
